@@ -46,6 +46,8 @@
 
 <script>
 export default {
+  name: 'LandingPage',
+
   data() {
     return {
       creations: [
