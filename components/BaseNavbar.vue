@@ -1,7 +1,7 @@
 <template>
   <nav class="flex items-center justify-between">
     <div class="z-50">
-      <h1 class="text-white font-semibold text-2xl">loopstudios</h1>
+      <Logo />
     </div>
 
     <button
