@@ -7,10 +7,10 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {
-      minHeight: (theme) => theme('spacing'),
-    },
+    extend: {},
   },
-  variants: {},
+  variants: {
+    textColor: ['responsive', 'hover', 'focus', 'group-hover'],
+  },
   plugins: [],
 }
