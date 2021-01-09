@@ -53,22 +53,22 @@
 
     <!-- Mobile Menu -->
     <ul
-      class="absolute inset-0 md:hidden pt-32 px-4 space-y-4 bg-black"
+      class="absolute inset-0 md:hidden pt-32 px-4 space-y-6 bg-black"
       v-if="isOpen"
     >
-      <li class="text-white hover:opacity-75">
+      <li class="uppercase text-white hover:opacity-75">
         <NuxtLink :to="{ name: 'index' }">About</NuxtLink>
       </li>
-      <li class="text-white hover:opacity-75">
+      <li class="uppercase text-white hover:opacity-75">
         <NuxtLink :to="{ name: 'index' }">Careers</NuxtLink>
       </li>
-      <li class="text-white hover:opacity-75">
+      <li class="uppercase text-white hover:opacity-75">
         <NuxtLink :to="{ name: 'index' }">Events</NuxtLink>
       </li>
-      <li class="text-white hover:opacity-75">
+      <li class="uppercase text-white hover:opacity-75">
         <NuxtLink :to="{ name: 'index' }">Products</NuxtLink>
       </li>
-      <li class="text-white hover:opacity-75">
+      <li class="uppercase text-white hover:opacity-75">
         <NuxtLink :to="{ name: 'index' }">Suports</NuxtLink>
       </li>
     </ul>
