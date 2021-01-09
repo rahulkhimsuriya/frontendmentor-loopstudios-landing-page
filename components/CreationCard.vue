@@ -7,7 +7,7 @@
     <img
       :src="creation.imageSrc"
       :alt="creation.title"
-      class="w-full h-full object-cover object-center"
+      class="w-full h-full object-cover object-top md:object-center"
     />
 
     <div class="absolute bottom-0 w-56 md:w-40 ml-8 mb-12 md:mb-8">
