@@ -51,21 +51,21 @@ export default {
       creations: [
         {
           title: 'Deep earth',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-deep-earth.jpg'),
           link: {
             name: 'index',
           },
         },
         {
           title: 'Night arcade',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-night-arcade.jpg'),
           link: {
             name: 'index',
           },
         },
         {
           title: 'Soccer team VR',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-soccer-team.jpg'),
           link: {
             name: 'index',
           },
@@ -79,28 +79,28 @@ export default {
         },
         {
           title: 'From up above VR',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-from-above.jpg'),
           link: {
             name: 'index',
           },
         },
         {
           title: 'Pocket borealis',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-pocket-borealis.jpg'),
           link: {
             name: 'index',
           },
         },
         {
           title: 'The curiosity',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-curiosity.jpg'),
           link: {
             name: 'index',
           },
         },
         {
           title: 'Make it fisheye',
-          imageSrc: require('~/assets/images/desktop/image-grid.jpg'),
+          imageSrc: require('~/assets/images/desktop/image-fisheye.jpg'),
           link: {
             name: 'index',
           },
