@@ -3,9 +3,9 @@
     <div class="px-4 container mx-auto">
       <BaseNavbar class="pt-10" />
 
-      <div class="md:w-1/2 lg:w-1/3 py-16">
+      <div class="md:w-1/2 lg:w-1/2 py-16">
         <h1
-          class="p-2 md:p-4 border border-white text-4xl font-light text-white uppercase tracking-widest leading-tight"
+          class="p-2 md:p-4 border border-white text-5xl lg:text-6xl font-light text-white uppercase tracking-widest leading-tight"
         >
           Immersive<br />experiences<br />that deliver
         </h1>
