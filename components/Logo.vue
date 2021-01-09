@@ -1,5 +1,8 @@
 <template>
-  <NuxtLink :to="{ name: 'index' }" class="text-white font-semibold text-3xl">
+  <NuxtLink
+    :to="{ name: 'index' }"
+    class="text-white text-3xl font-semibold hover:opacity-75"
+  >
     loopstudios
   </NuxtLink>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full mt-20 space-y-24">
+  <div class="w-full space-y-24">
     <div class="grid grid-cols-1 lg:grid-cols-2">
       <div>
         <img src="~assets/images/desktop/image-interactive.jpg" />

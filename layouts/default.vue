@@ -14,7 +14,7 @@
       </div>
     </header>
 
-    <main class="px-4 container mx-auto">
+    <main class="px-4 py-24 container mx-auto">
       <Nuxt />
     </main>
 
@@ -75,7 +75,7 @@
               </li>
             </ul>
 
-            <p class="text-sm text-white opacity-75">
+            <p class="text-sm text-white opacity-50">
               © 2021 Loopstudios. All rights reserved.
             </p>
           </div>
