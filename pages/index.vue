@@ -40,6 +40,12 @@
           class="relative h-64 md:h-auto"
         />
       </div>
+
+      <div>
+        <BaseButton class="block md:hidden mx-auto uppercase">
+          See All
+        </BaseButton>
+      </div>
     </div>
   </div>
 </template>

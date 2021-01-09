@@ -1,6 +1,6 @@
 <template>
   <button
-    class="px-10 py-2 transition-colors duration-500 ease-in-out"
+    class="px-12 py-4 transition-colors duration-500 ease-in-out"
     :class="buttonClasses"
   >
     <slot />
