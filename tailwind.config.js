@@ -1,3 +1,5 @@
+// const tailwindcss = require('tailwindcss')
+
 module.exports = {
   future: {
     // removeDeprecatedGapUtilities: true,
@@ -5,7 +7,9 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      minHeight: (theme) => theme('spacing'),
+    },
   },
   variants: {},
   plugins: [],
